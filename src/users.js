@@ -1,1 +1,3 @@
-//wtf..
+function users(state = [], action) {
+	return state;
+}

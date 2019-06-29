@@ -6,3 +6,5 @@ const app = combineReducers({
 	comments,
 	users
 });
+
+export default app;
